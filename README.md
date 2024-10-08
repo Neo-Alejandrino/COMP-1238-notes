@@ -26,4 +26,4 @@
     - Display and hide the desktop: Win key + D.
     - Lock your PC: Win key + L
 
-[CLI commands](COMP-1238-notes/cli.md)
+[CLI commands](main/cli.md)
